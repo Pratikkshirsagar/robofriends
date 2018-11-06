@@ -1,6 +1,6 @@
 # What is this Repo?
 
-* robofriends is a project that I have  bulid in react.js  
+* robofriends is a project that I have  build in react.js  
 
 # Tutorial  To run the react project:
 
